@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Sean's Site</title>
+		<link rel="stylesheet" type="text/css" href="Sean_Castelino.css">
+	</head>
+	<body>
+		<img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/005/07e/237/0fb9c27.jpg">
+		<h1>Sean's Work Summary</h1>
+			<p>
+			Client-focused and creative business development, sales, and marketing executive with over 15 years’ diverse experience across a variety of industries. Harnesses big picture thinking and entrepreneurial spirit, combined with a nuanced understanding of sales best practices to drive innovative initiatives and decision making, thriving in fast-paced, results-oriented environments. Offers a proven track record of exceeding sales targets and building trust-based, long-term relationships with clients. Skilled verbal and written communicator brings a methodical and analytical approach to reporting to generate meaningful data and track sales funnels.
+			</p>
+		<h2>Areas of Expertise</h2>
+			<ul>	
+				<li>Business Development</li>
+				<li>Team Building and Leadership</li>
+				<li>Proposals and Presentations</li>
+				<li>Strategic Planning and Execution</li>
+				<li>Sales and Marketing Best Practices</li>
+				<li>Customer Service Excellence</li>
+				<li>Training, Coaching, and Mentorship</li>
+				<li>Continuous Process Improvements</li>
+			</ul>
+		<h3>Professional Experience</h3>
+
+		<h4>Canada Post - Ecommerce Business Development Executive - January 2009-February 2012</h4>
+			<ul>
+				<li>As Ecommerce Business Development Executive, managed a territory encompassing downtown Toronto to Napanee, Ontario, developing a comprehensive understanding of the area and the local market.</li>
+				<li>Received the Canada Post Sales Excellence Award for surpassing 100% of defined sales quota in 2013. </li>
+				<li>Exceeded the business development target of $560K, acquiring brand new customers for a total of $600K.</li>
+				<li>Generated a funnel of $1.5M, a significant gain above the established target of $1.12M.</li>
+				<li>Opened the market of start-up companies through strategic positioning and extensive networking.</li>
+				<li>Conducted needs assessments with clients, while building enduring relationships and demonstrating the company’s value using research, insights, and sales strategies.</li>
+				<li>Project managed the sales process, supporting, coordinating, and scheduling for a cross-functional team.</li>
+				<li>Collaborated closely with management to review and improve Canada Post’s position in the marketplace and make recommendations to improve processes while meeting client requirements.</li>
+			</ul>	
+		<h5>Canflight Aviation- Entrepreneur/Co-Owner - January 2006 - November 2008</h5>
+			<ul>
+				<li>Liaised and worked closely with a variety of pre-flight training schools and educational institutions in Canada and internationally, building mutually beneficial relationships based on an untapped opportunity. </li>
+				<li>Teamed with a business partner to achieve the 2008 annual sales goal in the first six months of the year, generating $600K in sales for the flight school.</li>
+				<li>Developed and maintained a market awareness of local competitors, economic changes, and industry trends by conducting extensive research and conferring with leaders and decision makers in the aviation industry.</li>
+				<li>Oversaw the full spectrum of financial management, including a detailed budget and strategic financial plan.</li>
+			</ul>
+		<h6>Education and Professional Development</h6>
+			<p>
+				Bachelor of Commerce in Retail Management, 2001 - Ryerson University, Toronto, ON
+			</p>
+
+			<p>Direct Marketing/<a href="http://huthwaite.com/spinselling">SPIN Selling </a> /HUTHWAITE Strategic Selling</p>
+	</body>
+</html>
